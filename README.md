@@ -25,5 +25,7 @@ I'm Tanvi Jain, a Computer Science Engineering student passionate about software
 🏆 Achievements
 
 🥇 Top 10 Finalist — Smart India Hackathon Prelims 2025
+
 📜 AI Foundations Associate Certified by Oracle
+
 💼 Industry Experience as a Python Developer

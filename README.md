@@ -22,7 +22,8 @@ I'm Tanvi Jain, a Computer Science Engineering student passionate about software
 - Email: tanvij3011@gmail.com
 
 
-🏆 Achievements
+
+🏆 Achievements:
 
 🥇 Top 10 Finalist — Smart India Hackathon Prelims 2025
 

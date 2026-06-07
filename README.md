@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Tanvi Jain 👋
 
-<!--
-**tanvijain3011/tanvijain3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm Tanvi Jain, a Computer Science Engineering student passionate about software development and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently focusing on:
+- C++ and Data Structures & Algorithms
+- Database Management Systems (DBMS)
+- Object-Oriented Programming (OOP)
+- Full-Stack Development
+
+🚀 I enjoy building projects that solve real-world problems and continuously improving my coding skills.
+
+🌱 Currently learning:
+- Advanced DSA
+- System Design
+- Backend Development
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/tanvijain30/
+- Email: tanvij3011@gmail.com
+

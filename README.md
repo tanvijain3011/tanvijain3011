@@ -14,7 +14,7 @@ I'm Tanvi Jain, a Computer Science Engineering student passionate about software
 
 🌱 Currently learning:
 - Advanced DSA
-- System Design
+- Cyber Security
 - Backend Development
 
 📫 Connect with me:
